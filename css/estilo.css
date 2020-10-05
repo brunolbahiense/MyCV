@@ -1,0 +1,11 @@
+
+*{
+ font: bold;
+}
+.name{
+    color: blue;
+}
+.description{
+    font-size: 20px;
+    color: rgb(189, 45, 189);
+}
