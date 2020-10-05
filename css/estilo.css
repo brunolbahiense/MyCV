@@ -1,10 +1,10 @@
 
 *{
  font: bold;
+ background-color: #3B3B39;
+ color: #F6C234;
 }
-.name{
-    color: blue;
-}
+
 .description{
     font-size: 20px;
     color: rgb(189, 45, 189);
